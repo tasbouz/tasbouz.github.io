@@ -1,0 +1,239 @@
+{
+  "name": "Tasos Bouzikas",
+  "label": "Machine Learning Engineer, Data Scientist, and Theoretical Physicist",
+  "image_path": "img/cover.jpeg",
+  "contact": {
+    "email": "tasbouz@gmail.com",
+    "phone": "0730658939",
+    "location": "Stockholm, Sweden"
+  },
+  "summary": "Machine learning engineer, data scientist, and entrepreneur with educational background in theoretical physics (M.Sc.) and\nmathematics. Interested in discovering problems, researching solutions, and leading projects from the ground up. Experienced\nin R&D of scalable, end-to-end, ML solutions within microservice architectures. Invested in business, tech, and AI, always\nstaying up to date with the latest tech trends. Worked in many remote, multicultural, and agile teams all around the globe.",
+  "base_url": "127.0.0.1:5500",
+  "social_links": [
+    {
+      "label": "Personal Website",
+      "url": "https://tasbouz.github.io",
+      "svg_path": "img/globe.svg"
+    },
+    {
+      "label": "Github",
+      "url": "https://github.com/tasbouz ",
+      "svg_path": "img/github.svg"
+    },
+    {
+      "label": "LinkdeIn",
+      "url": "https://www.linkedin.com/in/tasos-bouzikas/",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/tasos_bouzikas/",
+      "svg_path": "img/instagram.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "LeoVegas",
+      "position": "Senior Machine Learning Engineer",
+      "url": "https://www.leovegas.com",
+      "start_date": "12/2024",
+      "end_date": "Present",
+      "highlights": [
+        "Placeholder",
+        "Placeholder",
+        "Placeholder"
+      ]
+    },
+    {
+      "company": "Handelsbanken",
+      "position": "Senior Machine Learning Engineer",
+      "url": "https://www.handelsbanken.se",
+      "start_date": "12/2023",
+      "end_date": "12/2024",
+      "highlights": [
+        "Built an on-prem ML platform for the R&D of ML models including mortgage rates decision and FX margins.",
+        "Solely responsibe for productionizing ML models, including ML pipelines, CI/CD, monitoring, logging, and alerting.",
+        "Developed the MLOps strategy & worked closely with data scientists helping them with the technicalities of their models."
+      ]
+    },
+    {
+      "company": "Spotify",
+      "position": "Machine Learning Engineer II",
+      "url": "https://www.spotify.com",
+      "start_date": "12/2023",
+      "end_date": "12/2024",
+      "highlights": [
+        "Built an on-prem ML platform for the R&D of ML models including mortgage rates decision and FX margins.",
+        "Solely responsibe for productionizing ML models, including ML pipelines, CI/CD, monitoring, logging, and alerting.",
+        "Developed the MLOps strategy & worked closely with data scientists helping them with the technicalities of their models."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "My First Project",
+      "summary": "Short summary about my first project",
+      "url": "https://sample.com",
+      "highlights": [
+        "First Highlight of Project One",
+        "Second Highlight of Project One",
+        "Third Highlight of Project One"
+      ],
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=1",
+          "caption": "Image Caption 1"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=2",
+          "caption": "Image Caption 2"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=3",
+          "caption": "Image Caption 3"
+        }
+      ]
+    },
+    {
+      "title": "My Second Project",
+      "summary": "Short summary about my second project",
+      "url": "https://sample.com",
+      "highlights": [
+        "First Highlight of Project Two",
+        "Second Highlight of Project Two",
+        "Third Highlight of Project Two"
+      ],
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=4",
+          "caption": "Image Caption 4"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=5",
+          "caption": "Image Caption 5"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=6",
+          "caption": "Image Caption 6"
+        }
+      ]
+    }
+  ],
+  "volunteer_experience": [
+    {
+      "organization": "Latest Organization",
+      "position": "Position One",
+      "url": "https://sample.com",
+      "start_date": "01/01/2020",
+      "end_date": "Present",
+      "summary": "Short summary about present volunteer work",
+      "highlights": [
+        "First Duty of Current Organization",
+        "Second Duty of Current Organization",
+        "Third Duty of Current Organization"
+      ]
+    },
+    {
+      "organization": "Previous Organization",
+      "position": "Position Two",
+      "url": "https://sample.com",
+      "start_date": "01/01/2010",
+      "end_date": "01/01/2020",
+      "summary": "Short summary about previous volunteer work",
+      "highlights": [
+        "First Duty of Previous Organization",
+        "Second Duty of Previous Organization",
+        "Third Duty of Previous Organization"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Institution One",
+      "location": "Institution One Location",
+      "url": "https://sample.com",
+      "degrees": [
+        "Master of Science in Computer Science",
+        "Minor in Mathematics"
+      ],
+      "honors": ["Outstanding Student Award", "Dean's List"],
+      "gpa_cumulative": "3.5",
+      "gpa_major": "4.0",
+      "graduation_date": "01/01/2005"
+    },
+    {
+      "institution": "Institution Two",
+      "location": "Institution Two Location",
+      "url": "https://sample.com",
+      "degrees": ["Bachelor of Science in Physics"],
+      "honors": ["Scholarship Recipient"],
+      "gpa_cumulative": "3.2",
+      "gpa_major": "3.9",
+      "graduation_date": "01/01/2000"
+    }
+  ],
+  "skills": [
+    {
+      "name": "My First Skill",
+      "proficiency": 100,
+      "proficiency_label": "Proficiency Level"
+    },
+    {
+      "name": "My Second Skill",
+      "proficiency": 80,
+      "proficiency_label": "Proficiency Level"
+    }
+  ],
+  "interests": [
+    {
+      "name": "My First Hobby",
+      "summary": "Short summary about my first Hobby",
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=7",
+          "caption": "Image Caption 7"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=8",
+          "caption": "Image Caption 8"
+        }
+      ]
+    },
+    {
+      "name": "My Second Hobby",
+      "summary": "Short summary about my second hobby",
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=9",
+          "caption": "Image Caption 9"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=10",
+          "caption": "Image Caption 10"
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "American Sign Language",
+      "fluency": "Professional Working Proficiency"
+    }
+  ],
+  "references": [
+    {
+      "name": "Person One",
+      "relation": "Previous Boss",
+      "reference": "Some nice things that Person One said about you, your work ethic, and how you provided value to their team."
+    },
+    {
+      "name": "Person Two",
+      "relation": "Previous Coworker",
+      "reference": "More kind things that Person Two said about you, what it was like working with you, and things you've accomplished."
+    }
+  ]
+}
