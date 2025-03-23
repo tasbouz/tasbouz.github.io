@@ -236,10 +236,10 @@
                       {% for deg in edu.degrees %}<li>{{ deg }}</li>{% endfor %}
                     </ul>
                   {% endif %}
-                  {% if edu.honors %}
-                    <h4>Honors</h4>
+                  {% if edu.thesis_title %}
+                    <h4>Thesis</h4>
                     <ul>
-                      {% for hon in edu.honors %}<li>{{ hon }}</li>{% endfor %}
+                      <a href="{{ edu.thesis_url }}">{{ edu.thesis_title }}</a>
                     </ul>
                   {% endif %}
                   {% if edu.gpa_major or edu.gpa_cumulative or edu.graduation_date %}

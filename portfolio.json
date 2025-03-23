@@ -7,7 +7,7 @@
     "phone": "0730658939",
     "location": "Stockholm, Sweden"
   },
-  "summary": "Machine learning engineer, data scientist, and entrepreneur with educational background in theoretical physics (M.Sc.) and\nmathematics. Interested in discovering problems, researching solutions, and leading projects from the ground up. Experienced\nin R&D of scalable, end-to-end, ML solutions within microservice architectures. Invested in business, tech, and AI, always\nstaying up to date with the latest tech trends. Worked in many remote, multicultural, and agile teams all around the globe.",
+  "summary": "Machine learning engineer, data scientist, and entrepreneur with educational background in theoretical physics (M.Sc.) and mathematics. Interested in discovering problems, researching solutions, and leading projects from the ground up. Experienced\nin R&D of scalable, end-to-end, ML solutions within microservice architectures. Invested in business, tech, and AI, always\nstaying up to date with the latest tech trends. Worked in many remote, multicultural, and agile teams all around the globe.\n",
   "base_url": "127.0.0.1:5500",
   "social_links": [
     {
@@ -39,9 +39,6 @@
       "start_date": "12/2024",
       "end_date": "Present",
       "highlights": [
-        "Placeholder",
-        "Placeholder",
-        "Placeholder"
       ]
     },
     {
@@ -55,17 +52,73 @@
         "Solely responsibe for productionizing ML models, including ML pipelines, CI/CD, monitoring, logging, and alerting.",
         "Developed the MLOps strategy & worked closely with data scientists helping them with the technicalities of their models."
       ]
+},
+    {
+      "company": "Luminy",
+      "position": "ML Advisor",
+      "url": "https://www.luminy.se",
+      "start_date": "06/2023",
+      "end_date": "12/2024",
+      "highlights": [
+        "Helped with defining an ML strategy, built graphs for the app, & developed models automating accounts reveivable."
+      ]
+    },
+    {
+      "company": "Peezy",
+      "position": "Co-Founder & Machine Learning Lead",
+        "url": "https://peezyapp.com",
+      "start_date": "09/2022",
+      "end_date": "01/2024",
+      "highlights": [
+        "Co-founded Peezy, responsible for the science behind the app, and for building a data-driven culture.",
+        "Involved in developing the app in Flutter, applying for funding, performing marketing research, and tutoring an intern."
+      ]
     },
     {
       "company": "Spotify",
       "position": "Machine Learning Engineer II",
       "url": "https://www.spotify.com",
-      "start_date": "12/2023",
-      "end_date": "12/2024",
+      "start_date": "09/2021",
+      "end_date": "06/2023",
       "highlights": [
-        "Built an on-prem ML platform for the R&D of ML models including mortgage rates decision and FX margins.",
-        "Solely responsibe for productionizing ML models, including ML pipelines, CI/CD, monitoring, logging, and alerting.",
-        "Developed the MLOps strategy & worked closely with data scientists helping them with the technicalities of their models."
+        "Part of the Algorithmic Investment Research team responsible for the R&D of ML models that forecast financial metrics.",
+        "Among the projects I worked: refactoring the monthly active users forecasting service, building neural networks and LSTMs for gross profit and LTV forecasting, and researching causal inference models for evaluating company investments."
+      ]
+    },
+    {
+      "company": "Spotify",
+      "position": "Data Scientist",
+      "url": "https://www.spotify.com",
+      "start_date": "01/2020",
+      "end_date": "09/2021",
+      "highlights": [
+        "Discovered and communicated insights hidden in data using ML, which helped stakeholders make decisions.",
+        "Defined, built and visualized metrics in Tableau capturing success of multiple teams for upper management reporting.",
+        "Collaborated with user researchers analysing the quantitative part of understanding customers' behaviour."
+      ]
+    },
+    {
+      "company": "Hedvig",
+      "position": "Data Scientist",
+      "url": "https://www.hedvig.com",
+      "start_date": "12/2018",
+      "end_date": "06/2019",
+      "highlights": [
+        "Rebuilt the first model of insurance pricing and experimented with the latest ML models on pricing.",
+        "Built a fraud detection system, using image recognition models, able to predict suspicious claims.",
+        "Automated claim resolving processes, which helped customer support to save time from repetitive work."
+      ]
+    },
+    {
+      "company": "Werlabs",
+      "position": "Data Scientist",
+      "url": "https://www.werlabs.com",
+      "start_date": "12/2016",
+      "end_date": "09/2018",
+      "highlights": [
+        "Helped define the roadmap closely with product owners and built relevant Tableau dashboards.",
+        "Created a medical ML system that generated customer medical diagnoses for doctors to evaluate.",
+        "Defined and executed ways of measuring success/failure through A/B testing initiatives"
       ]
     }
   ],
@@ -119,57 +172,20 @@
       ]
     }
   ],
-  "volunteer_experience": [
-    {
-      "organization": "Latest Organization",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
-      "end_date": "Present",
-      "summary": "Short summary about present volunteer work",
-      "highlights": [
-        "First Duty of Current Organization",
-        "Second Duty of Current Organization",
-        "Third Duty of Current Organization"
-      ]
-    },
-    {
-      "organization": "Previous Organization",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
-      "summary": "Short summary about previous volunteer work",
-      "highlights": [
-        "First Duty of Previous Organization",
-        "Second Duty of Previous Organization",
-        "Third Duty of Previous Organization"
-      ]
-    }
-  ],
   "education": [
     {
-      "institution": "Institution One",
-      "location": "Institution One Location",
-      "url": "https://sample.com",
-      "degrees": [
-        "Master of Science in Computer Science",
-        "Minor in Mathematics"
-      ],
-      "honors": ["Outstanding Student Award", "Dean's List"],
-      "gpa_cumulative": "3.5",
-      "gpa_major": "4.0",
-      "graduation_date": "01/01/2005"
+      "institution": "Utrecht University",
+      "location": "Utrecht, Netherlands",
+      "url": "https://www.uu.nl/en",
+      "degrees": ["Master in Theoretical Physics"],
+      "thesis_title": "Gravitational Solitons From Topology",
+      "thesis_url": "https://github.com/tasbouz/thesis/blob/master/Thesis%20Project/Tasos%20Bouzikas%20-%20Gravitational%20Solitons%20From%20Topology.pdf"
     },
     {
-      "institution": "Institution Two",
-      "location": "Institution Two Location",
-      "url": "https://sample.com",
-      "degrees": ["Bachelor of Science in Physics"],
-      "honors": ["Scholarship Recipient"],
-      "gpa_cumulative": "3.2",
-      "gpa_major": "3.9",
-      "graduation_date": "01/01/2000"
+      "institution": "Aristotle University",
+      "location": "Thessaloniki, Greece",
+      "url": "https://www.auth.gr/en",
+      "degrees": ["Bachelor in Physics"]
     }
   ],
   "skills": [
@@ -217,23 +233,11 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "American Sign Language",
       "fluency": "Professional Working Proficiency"
-    }
-  ],
-  "references": [
-    {
-      "name": "Person One",
-      "relation": "Previous Boss",
-      "reference": "Some nice things that Person One said about you, your work ethic, and how you provided value to their team."
     },
     {
-      "name": "Person Two",
-      "relation": "Previous Coworker",
-      "reference": "More kind things that Person Two said about you, what it was like working with you, and things you've accomplished."
+      "language": "Greek",
+      "fluency": "Native speaker"
     }
   ]
 }
